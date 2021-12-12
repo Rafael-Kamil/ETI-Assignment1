@@ -30,6 +30,12 @@ Package validator uses tags to implement value validations for structs and indiv
 
 Architecture diagram
 
+
+<-------MUX-----
+The term mux is an abbreviation for "HTTP request multiplexer." ServeMux, mux, mux, mux, mux, mux, mux, mux, mux, mux, Incoming requests are compared to a list of registered routes, and the route that matches the URL or other conditions is called.
+
+What's the point of Gorilla mux?
+The gorilla/mux package includes a request router and dispatcher for routing inbound requests to the appropriate handler. The term mux is an abbreviation for "HTTP request multiplexer."
 <--------Database Design----->
 ![db drawio](https://user-images.githubusercontent.com/35702954/145712619-542eb1eb-448f-4aef-b3aa-4d5f3f129fe3.png)
 
