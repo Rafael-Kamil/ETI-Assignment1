@@ -46,17 +46,10 @@ About QualityRides platform
 Through QualityRides, the project connects millions of passengers with private hire, taxi, and coach drivers. Passengers can simply enter their current position and desired destination.
 
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 ### Built With
 
 * [golang](https://go.dev/)
 * [MySql](https://www.mysql.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 
 <!-- GETTING STARTED -->
