@@ -82,10 +82,9 @@ CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; GRANT ALL ON . TO 'user
 
 sql querry
 
-CREATE database assignment1;
+CREATE database assignment1; 
 
 USE assignment1;
-
 
 ![image](https://user-images.githubusercontent.com/35702954/145714048-d2d50d62-214d-4028-95ed-ea09b008b396.png)
 
