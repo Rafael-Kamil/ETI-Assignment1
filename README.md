@@ -86,7 +86,6 @@ CREATE database assignment1;
 
 USE assignment1;
 
-![image](https://user-images.githubusercontent.com/35702954/145714048-d2d50d62-214d-4028-95ed-ea09b008b396.png)
 
 once you create the database schema change the connections string as shown below for each micro service const ADB = "root:00Nordic00@tcp(127.0.0.2:3306)/assignment1charset=utf8mb4&parseTime=True&loc=Local"
 root:00Nordic00@tcp = your user account Change the user and password to the user you just create. example user:password@tcp
