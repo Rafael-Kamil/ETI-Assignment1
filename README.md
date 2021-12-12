@@ -1,4 +1,5 @@
 # ETI-Assignment1
+
 <-----Design consideration of your microservices-->
 
 The first thing to keep in mind is that microservices are only designed to have one duty and are loosely coupled, so each service may be upgraded or restarted independently. In this case, each microservice would be responsible for (creating, reading, updating, and deleting) their specific data type from their databases.
@@ -30,12 +31,14 @@ Package validator uses tags to implement value validations for structs and indiv
 Architecture diagram
 
 <--------Database Design----->
+![db drawio](https://user-images.githubusercontent.com/35702954/145712619-542eb1eb-448f-4aef-b3aa-4d5f3f129fe3.png)
 
-db drawio
+
 
 <--------Database Design----->
+![db-Page-2 drawio](https://user-images.githubusercontent.com/35702954/145712620-1282cf75-fb3c-4ec5-8e6b-fb41f0eadbed.png)
 
-db-Page-2 drawio
+
 
 <----Instructions for setting up and running your microservices---->
 
