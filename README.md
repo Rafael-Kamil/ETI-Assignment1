@@ -74,7 +74,9 @@ GRANT ALL ON *.* TO 'user'@'localhost'
 
 
 Launch the MySQL Workbench, create a new MySQL Connection, and the following window will appear. Type the following command in the SQL File 1 window and then click the lightning icon
+
 CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; GRANT ALL ON . TO 'user'@'localhost'
+
 ![image](https://user-images.githubusercontent.com/35702954/145713979-edc22647-72cd-482c-b8df-412bd6e6212d.png)
 
 
