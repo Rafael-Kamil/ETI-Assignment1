@@ -59,6 +59,7 @@ go get github.com/go-playground/validator/v10
 creating a New User Account
 
 <----Create Data base Scheme--->
+
 MYsql Query
 
 CREATE USER 'user'@'localhost' IDENTIFIED BY 'password';
@@ -74,6 +75,7 @@ CREATE USER 'user'@'localhost' IDENTIFIED BY 'password'; GRANT ALL ON . TO 'user
 <----Creating a Database---->
 
 sql querry
+
 CREATE database assignment1;
 
 USE assignment1;
